@@ -7,9 +7,7 @@ Executable takes runtime parameters like sender's email and password, Receiver's
 Sample of Bat file is below:
 -------------------------------------------------
 email30.exe -f from_sender@gmail.com -p anuraj -t to_receiver@gmail.com -s subject_test -a attach_scan.txt
-pause
 -------------------------------------------------
-
 Source code is provided.
 It is compiled in pyinstaller using command: pyinstaller --onefile email3.py
 
