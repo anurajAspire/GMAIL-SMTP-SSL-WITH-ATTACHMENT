@@ -1,2 +1,2 @@
-email30.exe -f copyblogdown@gmail.com -p jurassic -t anurajram@gmail.com -s test -a scan.txt
+email30.exe -f from@gmail.com -p mypassword -t toemail@gmail.com -s Mysubject -a scan.txt
 pause
